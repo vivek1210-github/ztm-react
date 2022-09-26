@@ -1,0 +1,12 @@
+Login to google firebase
+create new console
+add project name - save
+two options to look for:
+Authentication
+Firestore Database
+
+ccnfigure or give our react app to work with firebase
+perm
+
+npm install firebase
+yarn add firebase
