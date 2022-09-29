@@ -8,6 +8,7 @@
  */
 import './button.styles.scss'
 
+// button type classes -  object
 const BUTTON_TYPES_CLASSES = {
   google: 'google-sign-in',
   inverted: 'inverted',
